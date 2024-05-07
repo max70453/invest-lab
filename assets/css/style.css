@@ -347,9 +347,10 @@ h6 {
   overflow: hidden;
   position: relative;
   /* background: linear-gradient(0deg, rgb(42, 44, 57) 0%, rgb(51, 54, 74) 100%); */
-  background-image: url("/assets/img/slide-1.jpg");
+  background-image: url("../img/slide-1.jpg");
   padding: 0;
 }
+
 
 #hero .carousel-container {
   display: flex;
